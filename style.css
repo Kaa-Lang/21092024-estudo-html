@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header img{
+    width: 15vw;
+    align-items: center;
+    justify-content: center;
+}
+.MeluByRubeRose{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
